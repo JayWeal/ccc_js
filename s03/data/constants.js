@@ -1,62 +1,62 @@
 export const foods = [
     {
-        "name": "Avocado",
-        "type": "Fruit",
-        "healthindicator": "A"
+        "name" : "Avocado",
+        "type" : "Fruit",
+        "healthindicator" : 1
     },
     {
         "name": "Curcumber",
         "type": "Veggie",
-        "healthindicator": "A"
+        "healthindicator": 1
     },
     {
         "name": "Bluebarries",
         "type": "Fruit",
-        "healthindicator": "A"
+        "healthindicator": 1
     },
     {
         "name": "French Fries",
         "type": "Veggie",
-        "healthindicator": "D"
+        "healthindicator": 4
     },
     {
         "name": "Schnitzel",
         "type": "Meat",
-        "healthindicator": "E"
+        "healthindicator": 5
     },
     {
         "name": "Past",
         "type": "Veggie",
-        "healthindicator": "C"
+        "healthindicator": 3
     },
     {
         "name": "Burger",
         "type": "Meat",
-        "healthindicator": "D"
+        "healthindicator": 4
     },
     {
         "name": "Joghurt",
         "type": "Dairy",
-        "healthindicator": "B"
+        "healthindicator": 2
     },
     {
         "name": "Pizza",
         "type": "Veggie",
-        "healthindicator": "C"
+        "healthindicator": 3
     },
     {
         "name": "Spring Rolls",
         "type": "Veggie",
-        "healthindicator": "A"
+        "healthindicator": 1
     },
     {
         "name": "Steak",
         "type": "Meat",
-        "healthindicator": "D"
+        "healthindicator": 4
     },
     {
         "name": "Tomato Soupe",
         "type": "Veggie",
-        "healthindicator": "B"
+        "healthindicator": 2
     }
-]
+];
