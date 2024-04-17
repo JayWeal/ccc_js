@@ -1,3 +1,5 @@
+<?php
+
 const persons = array(
     {new Person("Bülent", "Arslan", 42)},
     {new Person("Maria", "Buchinger", 29)},
